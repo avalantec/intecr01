@@ -10,3 +10,7 @@
 	path = l10n_cr_zones
 	url = https://github.com/stefanjaw/l10n_cr_zones.git
 	branch = odoo_v14
+[submodule "payment_bac"]
+	path = payment_bac
+	url = https://github.com/stefanjaw/payment_bac.git
+	branch = odoov14
